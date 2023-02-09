@@ -1,0 +1,15 @@
+Source: wazo-python-prometheus-flask-exporter-packaging
+Section: python
+Priority: optional
+Maintainer: Wazo Maintainers <dev@wazo.community>
+Build-Depends: debhelper (>= 9), dh-python, wget, python3-all, python3-setuptools
+Standards-Version: 3.9.4
+X-Python3-Version: >= 3.7
+
+Package: python3-prometheus-flask-exporter
+Architecture: all
+Depends: ${shlibs:Depends}, ${python3:Depends}, ${misc:Depends}, python3-prometheus-client
+Description: Python3 prometheus exporter for flask applications
+ prometheus-flask-exporter is a library to generate the payload of a metrics
+ resource meant to be consumed by Prometheus.
+ .

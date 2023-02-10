@@ -1,0 +1,5 @@
+wazo-python-prometheus-flask-exporter-packaging (0.21.0-1~wazo1) wazo-dev-buster; urgency=medium
+
+  * Initial release.
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Thu, 09 Feb 2023 13:16:56 -0500

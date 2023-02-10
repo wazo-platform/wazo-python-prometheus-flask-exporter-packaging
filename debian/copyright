@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: python-prometheus-flask-exporter
+Source: https://github.com/rycus86/prometheus_flask_exporter
+
+Files: *
+Copyright: Viktor Adam
+License: MIT License
+
+Files: debian/*
+Copyright: 2023 The Wazo Authors  (see the AUTHORS file)
+License: GPL-3

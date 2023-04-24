@@ -1,3 +1,9 @@
+wazo-python-prometheus-flask-exporter-packaging (0.21.0-1~wazo2) wazo-dev-bullseye; urgency=medium
+
+  * Bullseye
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Mon, 24 Apr 2023 08:36:14 -0400
+
 wazo-python-prometheus-flask-exporter-packaging (0.21.0-1~wazo1) wazo-dev-buster; urgency=medium
 
   * Initial release.

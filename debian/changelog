@@ -1,3 +1,9 @@
+wazo-python-prometheus-flask-exporter-packaging (0.23.2-1~wazo3) wazo-dev-bookworm; urgency=medium
+
+  * Rebuild for Bookworm
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Thu, 11 Sep 2025 13:04:32 -0400
+
 wazo-python-prometheus-flask-exporter-packaging (0.23.2-1~wazo1) wazo-dev-bullseye; urgency=medium
 
   * Bump version 0.23.2
